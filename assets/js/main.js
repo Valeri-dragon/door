@@ -4,8 +4,7 @@ const blockFilterTag = document.querySelector(".block-filter-tag");
 const blockFilterTitle = document.querySelectorAll(".block-filter-title");
 const containerCard = document.querySelector(".block-products");
 const loadMoreButton = document.getElementById("load-more");
-/*const cardCountElem = document.getElementById("card-count");
-const cardTotalElem = document.getElementById("card-total");*/
+
 
 const SetAttr = (elem, data, purpose) => {
   elem.setAttribute(data, purpose.innerText);
@@ -127,7 +126,7 @@ const renderGoods = (goods) => {
 };
 
 const responseServer = () => {
-  fetch("/assets/db/db.json")
+  fetch("./assets/db/db.json")
     .then((response) => {
       return response.json();
     })
