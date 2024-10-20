@@ -1,0 +1,243 @@
+[
+  {
+    "id":0,
+    "name": "project name",
+    "category": "residential",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "tag": "interior doors",
+    "img": [
+      ".././assets/img/58.png",
+      ".././assets/img/56.png",
+      ".././assets/img/57.png",
+      ".././assets/img/49.png"
+    ],
+    "model": "Leora",
+    "doorFinish": "Polar White",
+    "doorStyle": "Contemporary"
+  },
+  {
+    "id": 1,
+    "name": "project name",
+    "category": "residential",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "tag": "interior doors",
+    "img": [
+      ".././assets/img/57.png",
+      ".././assets/img/56.png",
+      ".././assets/img/58.png",
+      ".././assets/img/49.png"
+    ],
+    "model": "Arvika",
+    "doorFinish": "Polar White",
+    "doorStyle": "Contemporary"
+  },
+  {
+    "id": 2,
+    "name": "project name",
+    "category": "residential",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "tag": "interior doors",
+    "img": [
+      ".././assets/img/49.png",
+      ".././assets/img/56.png",
+      ".././assets/img/58.png",
+      ".././assets/img/57.png"
+    ],
+    "model": "Leora, Palladio",
+    "doorFinish": "Bianco Noble",
+    "doorStyle": "Modern"
+  },
+  {
+    "id": 3,
+    "name": "project name",
+    "category": "residential",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "tag": "interior doors",
+    "img": [
+      ".././assets/img/56.png",
+      ".././assets/img/49.png",
+      ".././assets/img/58.png",
+      ".././assets/img/57.png"
+    ],
+    "model": "Leora",
+    "doorFinish": "Bianco Noble",
+    "doorStyle": "Contemporary"
+  },
+  {
+    "id": 4,
+    "name": "project name",
+    "category": "residential",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "tag": "interior doors",
+    "img": [
+      ".././assets/img/58.png",
+      ".././assets/img/56.png",
+      ".././assets/img/57.png",
+      ".././assets/img/49.png"
+    ],
+    "model": "Leora",
+    "doorFinish": "Polar White",
+    "doorStyle": "Contemporary"
+  },
+  {
+    "id": 5,
+    "name": "project name",
+    "category": "residential",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "tag": "interior doors",
+    "img": [
+      ".././assets/img/57.png",
+      ".././assets/img/56.png",
+      ".././assets/img/58.png",
+      ".././assets/img/49.png"
+    ],
+    "model": "Arvika",
+    "doorFinish": "Polar White",
+    "doorStyle": "Contemporary"
+  },
+  {
+    "id": 6,
+    "name": "project name",
+    "category": "residential",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "tag": "kitchen",
+    "img": [
+      ".././assets/img/58.png",
+      ".././assets/img/56.png",
+      ".././assets/img/57.png",
+      ".././assets/img/49.png"
+    ],
+    "model": "Leora",
+    "doorFinish": "Polar White",
+    "doorStyle": "Contemporary"
+  },
+  {
+    "id": 7,
+    "name": "project name",
+    "category": "residential",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "tag": "kitchen",
+    "img": [
+      ".././assets/img/57.png",
+      ".././assets/img/56.png",
+      ".././assets/img/58.png",
+      ".././assets/img/49.png"
+    ],
+    "model": "Arvika",
+    "doorFinish": "Polar White",
+    "doorStyle": "Contemporary"
+  },
+  {
+    "id": 8,
+    "name": "project name",
+    "category": "commercial",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "tag": "interior doors",
+    "img": [
+      ".././assets/img/58.png",
+      ".././assets/img/56.png",
+      ".././assets/img/57.png",
+      ".././assets/img/49.png"
+    ],
+    "model": "Leora",
+    "doorFinish": "Polar White",
+    "doorStyle": "Contemporary"
+  },
+  {
+    "id": 9,
+    "name": "project name",
+    "category": "commercial",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "tag": "interior doors",
+    "img": [
+      ".././assets/img/57.png",
+      ".././assets/img/56.png",
+      ".././assets/img/58.png",
+      ".././assets/img/49.png"
+    ],
+    "model": "Arvika",
+    "doorFinish": "Polar White",
+    "doorStyle": "Contemporary"
+  },
+  {
+    "id": 10,
+    "name": "project name",
+    "category": "commercial",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "tag": "interior doors",
+    "img": [
+      ".././assets/img/49.png",
+      ".././assets/img/56.png",
+      ".././assets/img/58.png",
+      ".././assets/img/57.png"
+    ],
+    "model": "Leora, Palladio",
+    "doorFinish": "Bianco Noble",
+    "doorStyle": "Modern"
+  },
+  {
+    "id": 11,
+    "name": "project name",
+    "category": "commercial",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "tag": "interior doors",
+    "img": [
+      ".././assets/img/56.png",
+      ".././assets/img/49.png",
+      ".././assets/img/58.png",
+      ".././assets/img/57.png"
+    ],
+    "model": "Leora",
+    "doorFinish": "Bianco Noble",
+    "doorStyle": "Contemporary"
+  },
+  {
+    "id": 12,
+    "name": "project name",
+    "category": "commercial",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "tag": "interior doors",
+    "img": [
+      ".././assets/img/58.png",
+      ".././assets/img/56.png",
+      ".././assets/img/57.png",
+      ".././assets/img/49.png"
+    ],
+    "model": "Leora",
+    "doorFinish": "Polar White",
+    "doorStyle": "Contemporary"
+  },
+  {
+    "id": 13,
+    "name": "project name",
+    "category": "commercial",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "tag": "interior doors",
+    "img": [
+      ".././assets/img/57.png",
+      ".././assets/img/56.png",
+      ".././assets/img/58.png",
+      ".././assets/img/49.png"
+    ],
+    "model": "Arvika",
+    "doorFinish": "Polar White",
+    "doorStyle": "Contemporary"
+  },
+   {
+     "id": 14,
+     "name": "project name",
+     "category": "commercial",
+     "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+     "tag": "living room",
+     "img": [
+       ".././assets/img/58.png",
+       ".././assets/img/56.png",
+       ".././assets/img/57.png",
+       ".././assets/img/49.png",
+       ".././assets/img/56.png"
+     ],
+     "model": "Leora",
+     "doorFinish": "Polar White",
+     "doorStyle": "Contemporary"
+   }
+]
