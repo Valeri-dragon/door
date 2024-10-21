@@ -107,9 +107,9 @@ const renderGoods = (goods) => {
   </button>
 </div>   
            <div class="info-block  d-flex justify-content-center">
-           <div class="m-0"> <p class="model flex align-items-center"> <span class="row"><span class="strong">Door model:</span><span>${model}</span></span></p></div>
-            <div class="m-0"> <p class="door-finish flex align-items-center"> <span class="row"><span class="strong">Door Finish:</span><span>${doorFinish}</span></span></p></div>
-           <div class="m-0">  <p class="door-style flex align-items-center"> <span class="row"><span class="strong">Door Style:</span><span>${doorStyle}</span></span</p> <div>
+           <div class="m-0"> <p class="model d-flex align-items-center"> <span class="row"><span class="strong">Door model:</span><span>${model}</span></span></p></div>
+            <div class="m-0"> <p class="door-finish d-flex align-items-center"> <span class="row"><span class="strong">Door Finish:</span><span>${doorFinish}</span></span></p></div>
+           <div class="m-0">  <p class="door-style d-flex align-items-center"> <span class="row"><span class="strong">Door Style:</span><span>${doorStyle}</span></span</p> <div>
            </div>
             </div>
       `;
